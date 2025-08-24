@@ -1,0 +1,16 @@
+.gitignore
+README.md
+eslint.config.js
+index.html
+package-lock.json
+package.json
+postcss.config.js
+public/vite.svg
+src/App.css
+src/App.jsx
+src/WaveLab.jsx
+src/assets/react.svg
+src/index.css
+src/main.jsx
+tailwind.config.js
+vite.config.js
